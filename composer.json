@@ -1,5 +1,5 @@
 {
-    "name": "jamesmills/laravel-timezone",
+    "name": "srawnay/laravel-timezone",
     "license": "MIT",
     "description": "Timezone storage and retrieval for Laravel",
     "keywords": [
@@ -21,15 +21,15 @@
     },
     "autoload": {
         "psr-4": {
-            "JamesMills\\LaravelTimezone\\": "src/",
-            "JamesMills\\LaravelTimezone\\Database\\Seeds\\": "database/seeds/"
+            "Srawnay\\LaravelTimezone\\": "src/",
+            "Srawnay\\LaravelTimezone\\Database\\Seeds\\": "database/seeds/"
 
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "JamesMills\\LaravelTimezone\\LaravelTimezoneServiceProvider"
+                "Srawnay\\LaravelTimezone\\LaravelTimezoneServiceProvider"
             ]
         },
         "treeware": {
