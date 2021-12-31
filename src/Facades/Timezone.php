@@ -1,6 +1,6 @@
 <?php
 
-namespace JamesMills\LaravelTimezone\Facades;
+namespace Srawnay\LaravelTimezone\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
